@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nest.js**
 
-- 💬 Ask me about **Vuejs , React , angular , ExpressJS ,Spring boot**
+- 💬 Ask me about **Vuejs , React , angular  ,Spring boot**
 
 - 📫 How to reach me **bentarjem.sara@esprit.tn**
 
